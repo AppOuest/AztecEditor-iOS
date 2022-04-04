@@ -315,6 +315,7 @@
 		74EEC71A1FAB6EC900B989E3 /* UIImage+Resize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Resize.swift"; sourceTree = "<group>"; };
 		914CD9E62200B2D200DDD5C9 /* BoldWithShadowForHeadingFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoldWithShadowForHeadingFormatter.swift; sourceTree = "<group>"; };
 		917E22122201D2A5008AC826 /* BoldFormatterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoldFormatterTests.swift; sourceTree = "<group>"; };
+		B0633EE827FB4D2A00C1C71C /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		B52220D21F86A05400D7E092 /* TextViewStubDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewStubDelegate.swift; sourceTree = "<group>"; };
 		B524228C1F30C039002E7C6C /* HTMLDiv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTMLDiv.swift; sourceTree = "<group>"; };
 		B524228E1F30C098002E7C6C /* HTMLDivFormatter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTMLDivFormatter.swift; sourceTree = "<group>"; };
@@ -602,6 +603,7 @@
 		5951CB841D8BC93600E1866F = {
 			isa = PBXGroup;
 			children = (
+				B0633EE827FB4D2A00C1C71C /* Package.swift */,
 				FF5DCBF0248ED900006D9FC7 /* Documentation */,
 				FF7A1C481E51EFB600C4C7C8 /* WordPress-Aztec-iOS.podspec */,
 				50A1CC6E250FEA93001D5517 /* LICENSE.md */,
